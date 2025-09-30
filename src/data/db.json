@@ -1,0 +1,207 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "description": "Noise-cancelling headphones with deep bass and Bluetooth 5.0 support.",
+      "price": 59.99,
+      "quantity": 25,
+      "category": "Audio",
+      "rating": 4.5,
+      "discount": 25,
+      "image": "/images/product-1.png"
+    },
+    {
+      "id": "2",
+      "name": "Bluetooth Speaker",
+      "description": "Portable speaker with crisp sound and 12-hour battery life.",
+      "price": 39.99,
+      "quantity": 40,
+      "category": "Audio",
+      "rating": 4.2,
+      "image": "/images/product-2.png"
+    },
+    {
+      "id": "3",
+      "name": "Smartwatch",
+      "description": "Track fitness, receive notifications, and monitor your health stats.",
+      "price": 99.99,
+      "quantity": 15,
+      "category": "Wearables",
+      "rating": 4.7,
+      "image": "/images/product-3.png"
+    },
+    {
+      "id": "4",
+      "name": "Gaming Mouse",
+      "description": "Ergonomic mouse with customizable RGB lighting and 6 DPI levels.",
+      "price": 29.99,
+      "quantity": 50,
+      "category": "Accessories",
+      "rating": 4.3,
+      "image": "/images/product-4.png"
+    },
+    {
+      "id": "5",
+      "name": "Mechanical Keyboard",
+      "description": "Tactile mechanical keys with a sleek aluminum frame.",
+      "price": 89.99,
+      "quantity": 30,
+      "category": "Accessories",
+      "rating": 4.8,
+      "image": "/images/product-5.png"
+    },
+    {
+      "id": "6",
+      "name": "USB-C Hub",
+      "description": "Multiport adapter with HDMI, USB 3.0, and SD card support.",
+      "price": 24.99,
+      "quantity": 100,
+      "category": "Adapters",
+      "rating": 4.1,
+      "image": "/images/product-6.png"
+    },
+    {
+      "id": "7",
+      "name": "MacBook Pro 16\"",
+      "description": "Powerful laptop with M3 Pro chip, 16GB RAM, and stunning Liquid Retina XDR display.",
+      "price": 2499.99,
+      "quantity": 8,
+      "category": "Electronics",
+      "rating": 4.9,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "8",
+      "name": "iPhone 15 Pro",
+      "description": "Latest iPhone with titanium design, A17 Pro chip, and advanced camera system.",
+      "price": 999.99,
+      "quantity": 20,
+      "category": "Mobile",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "9",
+      "name": "Sony WH-1000XM5",
+      "description": "Industry-leading noise canceling headphones with 30-hour battery life.",
+      "price": 399.99,
+      "quantity": 12,
+      "category": "Audio",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "10",
+      "name": "PlayStation 5",
+      "description": "Next-gen gaming console with ultra-high speed SSD and ray tracing.",
+      "price": 499.99,
+      "quantity": 5,
+      "category": "Gaming",
+      "rating": 4.9,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "11",
+      "name": "Samsung 4K Smart TV",
+      "description": "55-inch 4K UHD Smart TV with HDR10+ and built-in streaming apps.",
+      "price": 799.99,
+      "quantity": 15,
+      "category": "TV",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "12",
+      "name": "Canon EOS R5",
+      "description": "Professional mirrorless camera with 45MP sensor and 8K video recording.",
+      "price": 3899.99,
+      "quantity": 3,
+      "category": "Cameras",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "13",
+      "name": "iPad Pro 12.9\"",
+      "description": "Powerful tablet with M2 chip, Liquid Retina XDR display, and Apple Pencil support.",
+      "price": 1099.99,
+      "quantity": 18,
+      "category": "Electronics",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "14",
+      "name": "AirPods Pro 2",
+      "description": "Active noise cancellation, spatial audio, and up to 6 hours of listening time.",
+      "price": 249.99,
+      "quantity": 35,
+      "category": "Audio",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "15",
+      "name": "Nintendo Switch OLED",
+      "description": "Handheld gaming console with vibrant 7-inch OLED screen and enhanced audio.",
+      "price": 349.99,
+      "quantity": 22,
+      "category": "Gaming",
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "16",
+      "name": "Dell XPS 13",
+      "description": "Ultrabook with 13.4-inch InfinityEdge display and 11th Gen Intel Core processor.",
+      "price": 1299.99,
+      "quantity": 10,
+      "category": "Electronics",
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "17",
+      "name": "Samsung Galaxy S24 Ultra",
+      "description": "Premium smartphone with S Pen, 200MP camera, and AI-powered features.",
+      "price": 1199.99,
+      "quantity": 14,
+      "category": "Mobile",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "18",
+      "name": "Bose QuietComfort 45",
+      "description": "Premium noise-canceling headphones with world-class comfort and sound.",
+      "price": 329.99,
+      "quantity": 16,
+      "category": "Audio",
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "19",
+      "name": "Xbox Series X",
+      "description": "Most powerful Xbox console with 4K gaming and 1TB SSD storage.",
+      "price": 499.99,
+      "quantity": 7,
+      "category": "Gaming",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "20",
+      "name": "LG OLED C3 65\"",
+      "description": "65-inch 4K OLED Smart TV with perfect blacks and infinite contrast.",
+      "price": 1599.99,
+      "quantity": 6,
+      "category": "TV",
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop"
+    }
+  ]
+}
